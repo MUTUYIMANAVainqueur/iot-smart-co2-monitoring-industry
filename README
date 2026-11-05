@@ -1,0 +1,18 @@
+# IoT Smart Monitoring CO2 in Industry
+
+This system monitors CO2, temperature and humidity in industrial environments using ESP32 to protect worker health.
+
+## Features
+- Real-time CO2 monitoring using MQ-135 sensor
+- Temperature & Humidity monitoring using DHT11
+- Wi-Fi data sending using MQTT / HTTP
+- PHP + MySQL web dashboard for live data
+- Buzzer & LED alert when CO2 exceeds safe threshold
+
+## Technologies
+- ESP32, C/C++
+- MQ-135, DHT11
+- PHP, MySQL, HTML/CSS
+
+## Author
+MUTUYIMANA Vainqueur
